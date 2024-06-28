@@ -54,11 +54,11 @@ nav ul li a:hover{
     color: #007bff;
 }
 .images{
-    width: 48%;
-    height:80%;
-    position: absolute;
-    bottom: 0;
-    right: 100px;
+     width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 1rem;
+    object-fit: cover;
 }
 .images img{
     position:absolute;
