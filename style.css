@@ -150,12 +150,12 @@ ul li a:hover {
   cursor: pointer;
 }
 
-.hire__me {
+.github {
   background-color: var(--primary-color);
   color: #ffffff;
 }
 
-.hire__me:hover {
+.github:hover {
   background-color: var(--primary-color-dark);
 }
 
@@ -179,7 +179,8 @@ ul li a:hover {
 }
 
 .social {
-    position: fixed; 
+
+    position:static; 
     bottom: 40px;    
     left: 250px;     
     display: flex;
